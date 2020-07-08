@@ -1,7 +1,7 @@
 # elasticsearch-study
 
 
-7월06일 - ch1 검색시스템 이해하기 - celine.ys
+7월06일 - ch1 검색시스템 이해하기 - celine.ys <br>
          ch2 엘라스틱서치 살펴보기
 7월13일 - ch3 데이터 모델링 - pang.yu
 7월20일 - ch4 데이터 검색 - wanda.777
